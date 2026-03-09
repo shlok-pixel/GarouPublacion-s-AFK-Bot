@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "iguana.aternos.host",
-    "port": 56559,
-    "version": "1.21.1"
+    "ip": "Talonsmps1.aternos.me",
+    "port": 11416,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Give money to Garou",
         "I like to play Minecraft!"
       ]
     },
