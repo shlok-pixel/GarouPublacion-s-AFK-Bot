@@ -8,7 +8,7 @@
   "server": {
     "ip": "primee.aternos.me",
     "port": 46150,
-    "version": "1.21.1"
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
